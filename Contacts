@@ -1,0 +1,77 @@
+<!doctype html>
+
+<html>
+<head> 
+<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|Dancing+Script|Indie+Flower|PT+Sans|Reem+Kufi" rel="stylesheet"> 
+
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+
+<title>
+    
+Techniche Representative
+</title><style type="text/css">
+body
+{background-image:url(t1logo.jpg); 
+background-size:contain;} 
+table.style1{ 
+        background-color:white;
+        }
+    tr{
+        color:blue;
+        font-size:28px;
+        font-family: 'Reem Kufi', sans-serif;
+        text-align:center;
+        }    
+    a:link{color:blue;
+        text-decoration:none;}
+        a:visited{color:blue;}
+        a:hover{color:grey;
+                font-style:italic;
+        font-family: 'Indie Flower', cursive; }
+
+</style> 
+</head>
+<body>
+<table class="style1" width ="100%">
+<tr>
+    <td class="i"><a href="http://techniche.org"><img src="t3.jpg" /></a></td>
+    <td><a href="index.html"> About</a> </td>
+    
+    <td> <a href="responsibilities.html"> Responsibilities </a></td>
+    <td><a href="responsibilities.html"> Incentives</a></td>    
+    <td><a href="https://goo.gl/xiK8Ep">Registration</a></td>
+    <td> <a href="contacts.html">Contact</a></td>
+    
+</tr>
+</table>
+<hr />
+
+<center><h1 style="font-family:algerian;color:#BA55D3">CONTACTS</h1></center><br>
+<br>
+<img class="img-circle" src="Ani.jpg" height="240" width="220"/>
+
+<img class="img-circ" src="head.jpg" height="240" width="220"/><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="text-align:center; margin-left:-320px;">
+<strong><font size="5">Animesh Jain</font></strong><br>
+<FONT SIZE="4" COLOR="LIME">CONVENOR,Techniche'17<br>
++919424610818<br></FONT>
+<a href="https://m.facebook.com/profile.php?id=100001027023880&__mref=message_bubble">Facebook link</a></div>
+<div style="text-align:center;margin-top:-2.5cm;margin-right:-330px">
+<strong><font size="5">Rishav Agarwal</font></strong><br>
+<FONT SIZE="4" COLOR="LIME">HEAD,PR and Branding,Techniche'17<br>
+8016084022<br></FONT>
+<a href="https://m.facebook.com/Rishav.agarwl?__mref=message">Facebook link</a></div>
+<br><br>
+<center><font size="5"style="font-family:Footlight MT Light;color:DEEPPINK">For further queries mail us at: </font>
+<font size="4.5"style="font-family:Lucida Calligraphy;color:AQUAMARINE">branding.techniche17@gmail.com</font></center>
+<br>
+<br><center>
+<font size="5" style="font-family:Broadway;color:AQUA">Follow us on:</font>
+<a href="https://www.facebook.com/techniche.iitguwahati/?fref=ts&__mref=message_bubble">
+<img class="img-tt" src="f.jpg" height="50" width="50" alt="" hspace="20"></a>
+<a href="https://www.instagram.com/techniche/"><img class="img-tt"src="ii.png" height="50" width="50" alt="" hspace="10"></a>
+<a href="https://twitter.com/Techniche_IITG"><img class="img-tt"src="ttg.jpg" height="50" width="50"alt="" hspace="10" ></a></center>
+</body>
+</html>
+
