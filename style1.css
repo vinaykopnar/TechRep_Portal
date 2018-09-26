@@ -1,0 +1,207 @@
+body {background-image:url(img.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	margin:0;
+	background-size:cover;
+	background-attachment:fixed;
+	
+	
+}
+
+a:link {
+}
+
+
+a:visited{ 
+	font-size:25px;
+	font-family: 'Reem Kufi', sans-serif;
+	text-align:center;
+	text-decoration:none;
+}
+a:hover { color:#0000ff;
+	
+	 
+}
+
+.style1 { background-color:white;
+}
+
+
+.menu { color:rgb(0,60,0);
+	font-size:25px;
+	font-family: "Reem Kufi", sans-serif;
+	text-align:center;
+	text-decoration:none;
+	border:1px solid white;
+	padding:5px 10px 5px 10px;
+	border-radius:5px;
+}
+
+.menu:hover {
+	box-shadow:0px 3px 3px rgb(0,100,0);
+	border:1px solid rgb(0,100,0);
+	background-color:rgb(240,240,240);
+	color:rgb(0,20,0);
+}
+
+#Logo {
+	padding:10px 5px 5px 30px;
+}
+
+#header { margin:3px;
+}
+
+#header_hr_line {
+	width:100%;
+	align:center;
+	margin:3px 0 0 0;
+}
+
+#container { 
+	width:100%;
+	text-align:center;	
+		
+}
+h1.head { 
+	font-size:3em;
+	color:white;
+	margin:0px;
+	height:100px;
+	padding:60px 0 10px 0;
+	text-align:center;
+	text-decoration:none;
+	background-color:rgb(21,74,21);
+	text-shadow:0px 2px 3px #000000;
+	font-family:Verdana,sans-serif;
+}
+
+
+#con_head {
+	color:rgb(13,31,13);
+}				
+
+#content { border-right:2px solid white;
+	border-left:2px solid white;
+	border-top:0px;
+	border-bottom:0px;
+	width:80%;
+	text-align:center;
+	margin:auto;
+	position:relative; top:30px;
+	padding:10px 20px 20px 20px;
+	
+}
+
+
+
+p.point {color:white;
+	font-family: 'PT Sans', sans-serif;
+	line-height:130%;
+	font-size:120%;
+}
+
+
+p.info {
+	color:white;
+	line-height:200%;
+	font-size:100%;
+	font-family:Verdana,sans-serif;
+}
+
+#content:hover { 
+	background-color:rgba(20,20,20,0.7);
+}
+
+
+#contacts {
+	width:100%;
+	padding:0px;
+	text-align:center;
+	//background-color:rgba(100,100,100,0.7);
+}
+
+
+#contacts td {
+	padding:20px;
+}
+
+#contacts td:nth-child(2) {
+	border-right:2px solid white;
+}
+
+.contact_pic {
+	margin:20px;
+	height:200px;
+	width:200px;
+	border:1px solid white;
+	
+}
+
+#images {
+	
+	padding:20px;
+	margin:40px 0 0 0;
+}
+
+
+.contact_info {
+	height:200px;
+	width:300px;
+	vertical-align:middle;
+}
+
+
+.name {
+	font-family:verdana,sans-serif;
+	font-size:140%;
+	color:white;
+	padding:20px 0 0 0;
+	
+}
+
+
+
+#footer {
+	background-color:rgb(46,64,114);
+	//box-shadow:5px 0 2px rgb(250,250,250);
+	height:300px;
+	width:100%;
+	margin:70px 0 0 0;
+}
+
+
+.footer_contacts {
+	margin:0 0 0 50px;
+	padding:50px 0 0 0;
+	font-size:120%;
+	color:rgb(169,171,176);
+	text-shadow:0 1px 0 rgb(0,0,0);
+	
+}
+
+.img-tt {
+	self-align:center;
+}
+
+#tabs {
+	width:100%;
+	color:black;
+	margin:0;
+	height:60px;
+	border:1px solid white;
+	text-align:center;
+	padding:0;
+}
+
+#tabs td {
+	padding:0;
+	border-radius:5px;
+	background-color:cyan;
+}
+
+
+.tab {
+	height:100%;
+	width:100%;
+	margin:0;
+}

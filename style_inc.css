@@ -1,0 +1,152 @@
+body {background-image:url(img.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	margin:0;
+	background-size:cover;
+	background-attachment:fixed;
+	
+	
+}
+
+a:link {
+}
+
+
+a:visited{ 
+	font-size:25px;
+	font-family: 'Reem Kufi', sans-serif;
+	text-align:center;
+	text-decoration:none;
+}
+a:hover { color:#0000ff;
+	
+	 
+}
+
+.style1 { background-color:white;
+}
+
+
+.menu { color:rgb(0,60,0);
+	font-size:25px;
+	font-family: "Reem Kufi", sans-serif;
+	text-align:center;
+	text-decoration:none;
+	border:1px solid white;
+	padding:5px 10px 5px 10px;
+	border-radius:5px;
+}
+
+.menu:hover {
+	box-shadow:0px 3px 3px rgb(0,100,0);
+	border:1px solid rgb(0,100,0);
+	background-color:rgb(240,240,240);
+	color:rgb(0,20,0);
+}
+
+#Logo {
+	padding:10px 5px 5px 30px;
+}
+
+#header { margin:3px;
+}
+
+#header_hr_line {
+	width:100%;
+	align:center;
+	margin:3px 0 0 0;
+}
+
+#container { position:relative; 
+	
+	top:0%;
+	width:100%;
+	text-align:center;	
+			//border:1px solid white;
+}
+
+
+h1.head { 
+	font-size:3em;
+	margin:0px;
+	padding:60px 0 10px 0;
+	height:100px;	
+	text-align:center;
+	//text-decoration:underline;
+	text-shadow:0px 2px 3px black;
+	border-radius:0px;
+	font-family:Verdana,sans-serif;
+	cursor:pointer;
+	
+}
+
+
+#head_Res {
+	background-color:rgb(217,50,64);
+	color:rgb(54,0,0);
+}
+
+
+#head_In {
+	background-color:rgb(23,166,151);
+	color:rgb(0,38,39);
+}	
+
+#head_whyTR {
+	background-color:rgb(99,140,166);
+	color:rgb(22,64,91);
+}
+
+.pointc {
+	color:rgb(242,238,171);
+	font-family: 'verdana', sans-serif;
+	line-height:140%;
+	font-size:120%;	
+	width:180px;
+	height:180px;
+	display:inline-block;
+	border-radius:50%;
+	background-color:rgb(90,50,60);
+	margin:70px;
+	padding:40px;
+	text-decoration:bold;
+	vertical-align:top;
+	text-shadow:0.3px 0.3px 0.1px white;
+}
+
+
+#content_In {
+	height:auto;
+	display:none;
+}
+
+#content_Res {
+	height:auto;
+	display:none;
+	
+}	
+
+#content_whyTR {
+	height:auto;
+	display:none;
+}	
+
+
+div.lower_zero {
+	height:0px;
+	width:0px;
+	border-bottom:20px solid transparent;
+	border-top:70px solid rgba(200,200,200,0.8);
+	border-left:625px solid transparent;
+	border-right:625px solid transparent;
+
+}
+
+
+#tab_whyTR {
+	margin-top:0px;
+}
+
+#tab_whyTR,#tab_Res,#tab_In {
+	padding:0px 1px;
+}	

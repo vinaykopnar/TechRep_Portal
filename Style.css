@@ -1,0 +1,31 @@
+#ull {
+
+list-style : none;
+
+
+}
+
+
+
+
+#ull li {
+
+position:relative;
+display : inline-block;
+
+}
+
+#ull li  {
+
+border-right : 1px solid black;
+display : block;
+
+}
+
+submenu1 a{
+
+display : block;
+margin : 5px;
+color : blue;
+
+}
