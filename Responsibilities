@@ -1,0 +1,107 @@
+
+<!doctype>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|Dancing+Script|Indie+Flower|PT+Sans|Reem+Kufi" rel="stylesheet"> 
+
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+
+<title>
+    
+Techniche Representative
+</title>
+
+<style type="text/css">
+body {
+     background-image:url(t1logo.jpg);
+     background-repeat:no-repeat;
+     background-size: 100% 100%;
+     }
+    
+      
+        
+        h1{color:cyan;
+        text-align:center;
+        font-size:500%;
+        font-family: 'Dancing Script',cursive;        
+        }
+        
+    table.t1 { color:white;
+        margin-top:solid;
+        font-family:  'Reem Kufi', sans-serif;
+        line-height:200%;
+        font-size:150%;
+    border:1px solid white;
+    align:center;
+            
+    
+    }
+    table.style1{ 
+        background-color:white;
+        color:blue;
+        font-size:28px;
+        font-family: 'Reem Kufi', sans-serif;
+        text-align:center;
+        }        
+        a:link{color:blue;
+        text-decoration:none;}
+        a:visited{color:blue;}
+        a:hover{color:grey;
+                font-style:italic;
+        font-family: 'Indie Flower', cursive; }
+        
+        
+    td.cl1{
+    padding-bottom:0px;
+    }
+    
+
+    
+    </style>
+    
+</head>
+
+<body>
+<table class="style1" width ="100%">
+<tr>
+    <td class="i"><a href="http://techniche.org"><img src="t3.jpg" /></a></td>
+    <td> <a href="index.html">About</a> </td>
+    
+    <td><a href="responsibilities.html">  Responsibilities </a></td>
+    <td><a href="incentives.html"> Incentives</a></td>
+    
+    <td><a href="https://goo.gl/xiK8Ep"> Registration</a></td>
+    <td> <a href="contacts.html">Contact</a></td>
+    
+</tr>
+</table>
+<hr />
+<p align =center>
+<table>
+<tr>
+<td align=left><h1>RESP</h1></td>
+<td class="cl1" align=right ><h1>O</h1></td>
+<td align=left><h1>NSIBILITY</h1></td>
+</tr>
+</table>
+</p>
+<hr />
+
+<table class="t1" border=1 width="100%">
+<ul>
+ <tr>
+    <td><li>Being the face of your college in IITG, trying to bring maximum participation from your college.</li></td>
+    <td><li>Leading the contigent participation of your college during Techniche.</li></td>
+</tr>
+<tr>
+    <td><li>Publicizing Techniche events on social media and forwarding mails to student's mailing list.</li></td>
+    <td><li>Conducting workshops and presentations regarding Techniche in your college.</li></td>
+</tr>
+<tr>
+     <td><li>Getting permission for organising events and workshops to promote Techniche in your college.</li></td>
+     <td><li>Putting Techniche posters on your college notice board.</li></td>
+</tr>
+</ul>
+</table>
+</body>
+</html>
